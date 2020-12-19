@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter5\Party Platters\bin\Debug\Party Platters.exe.config
+C:\School\CSC-139\Chapter5\Party Platters\bin\Debug\Party Platters.exe
+C:\School\CSC-139\Chapter5\Party Platters\bin\Debug\Party Platters.pdb
+C:\School\CSC-139\Chapter5\Party Platters\bin\Debug\Party Platters.xml
+C:\School\CSC-139\Chapter5\Party Platters\obj\Debug\Party Platters.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter5\Party Platters\obj\Debug\Party_Platters.frmMain.resources
+C:\School\CSC-139\Chapter5\Party Platters\obj\Debug\Party_Platters.Resources.resources
+C:\School\CSC-139\Chapter5\Party Platters\obj\Debug\Party Platters.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter5\Party Platters\obj\Debug\Party Platters.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter5\Party Platters\obj\Debug\Party Platters.exe
+C:\School\CSC-139\Chapter5\Party Platters\obj\Debug\Party Platters.xml
+C:\School\CSC-139\Chapter5\Party Platters\obj\Debug\Party Platters.pdb
